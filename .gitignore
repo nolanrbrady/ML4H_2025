@@ -1,0 +1,14 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+
+# Python build/distribution
+build/
+dist/
+*.egg-info/
