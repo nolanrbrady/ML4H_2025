@@ -1,8 +1,0 @@
-,0
-algorithm,ppo
-model_dir,/Users/nobr3541/Library/CloudStorage/OneDrive-UCB-O365/Desktop/PhD/Research/BAIC/AD_RL_Env/autoreg/reinforcement_learning/ppo_alpaca_20250904_180119
-timestamp,20250904_214609
-n_samples,500
-n_explain,200
-n_features,21
-n_actions,17

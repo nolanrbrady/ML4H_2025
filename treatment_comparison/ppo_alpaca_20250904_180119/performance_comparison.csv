@@ -1,2 +1,0 @@
-mean_reward,std_reward,improvement,percent_improvement,significant,p_value,performance_level,assessment
-16.920991393271834,17.95760621425176,24.792730118801025,314.9587528660548,True,2.520089494646981e-15,EXCELLENT,Strong improvement over random (+315.0%)

@@ -1,8 +1,0 @@
-,0
-algorithm,sac
-model_dir,/Users/nobr3541/Library/CloudStorage/OneDrive-UCB-O365/Desktop/PhD/Research/BAIC/AD_RL_Env/autoreg/reinforcement_learning/sac_alpaca_stable_20250904_220054
-timestamp,20250905_150120
-n_samples,500
-n_explain,200
-n_features,21
-n_actions,17

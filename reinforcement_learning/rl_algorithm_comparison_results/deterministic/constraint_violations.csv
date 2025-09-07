@@ -1,7 +1,0 @@
-policy,episode,step,violation_type,action
-PPO,36,5,no_medication_with_other_actions,[0. 0. 0. 0. 1. 0. 1. 1. 1. 1. 1. 1. 1. 1. 1. 0. 1.]
-PPO,42,0,no_medication_with_other_actions,[1. 0. 0. 0. 1. 1. 0. 1. 0. 1. 1. 1. 1. 0. 1. 0. 1.]
-PPO,47,0,no_medication_with_other_actions,[0. 0. 1. 0. 1. 0. 1. 1. 0. 1. 0. 1. 0. 0. 1. 0. 0.]
-PPO,52,1,no_medication_with_other_actions,[1. 0. 0. 0. 1. 0. 1. 1. 0. 1. 1. 1. 1. 1. 1. 0. 1.]
-PPO,55,0,no_medication_with_other_actions,[0. 0. 1. 1. 1. 0. 0. 1. 0. 1. 1. 1. 1. 0. 1. 0. 1.]
-PPO,64,0,no_medication_with_other_actions,[1. 0. 1. 0. 1. 0. 1. 1. 1. 1. 1. 1. 0. 0. 0. 0. 1.]
